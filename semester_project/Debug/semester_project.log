@@ -1,0 +1,3 @@
+﻿  semester_project.cpp
+C:\project C++\2 курс 1 сем\АиСД\semester_project\semester_project.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  semester_project.vcxproj -> C:\project C++\2 курс 1 сем\АиСД\semester_project\Debug\semester_project.exe
